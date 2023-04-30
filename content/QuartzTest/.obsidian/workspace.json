@@ -15,7 +15,7 @@
               "state": {
                 "file": "Hello World.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "b7a9c7f7586e990e",
   "lastOpenFiles": [
+    "hello world 2.md",
     "Hello World.md"
   ]
 }
