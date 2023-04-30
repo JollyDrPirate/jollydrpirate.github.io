@@ -1,5 +1,5 @@
 ---
-title: Jolly Dr Pirate
+title: "Jolly Dr Pirate"
 ---
 
 test test test
