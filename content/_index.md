@@ -2,5 +2,10 @@
 title: "Jolly Dr Pirate"
 ---
 
-[[Hello World]]
+# Heading
 
+This is content
+
+This is an attempt at linking: [[QuartzTest/Hello World]]
+
+This is more content
