@@ -2,7 +2,7 @@
 title: "Alistair's Archive"
 ---
 
-# Heading
+# Print to Screen
 
 This is content
 
