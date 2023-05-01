@@ -18,21 +18,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "6b1c95b8a6e61c33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hello World.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,11 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6b1c95b8a6e61c33",
+  "active": "b7a9c7f7586e990e",
   "lastOpenFiles": [
+    "hello world 2.md",
     "Subfolder/Bingo.md",
     "Hello World.md",
-    "Subfolder",
-    "hello world 2.md"
+    "alias.md",
+    "Subfolder"
   ]
 }
