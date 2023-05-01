@@ -2,12 +2,6 @@
 title: "Alistair's Archive"
 ---
 
-# Print to Screen
+# Coming Soon
 
-This is content
-
-This is an attempt at linking to the same folder: [[Hello World]]
-
-This is an attempt at linking to a subfolder: [[QuartzTest/Hello World]]
-
-This is more content
+An archive of the adventures of The Fools Errant, as told by Alistair Theodellus II.  Come back soon to read the full, ongoing, exciting tale!
