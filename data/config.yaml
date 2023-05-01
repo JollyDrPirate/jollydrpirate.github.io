@@ -1,4 +1,4 @@
-name: Jacky Zhao
+name: JollyDrPirate
 enableToc: true
 openToc: false
 enableLinkPreview: true
@@ -10,20 +10,17 @@ enableSPA: true
 enableFooter: true
 enableContextualBacklinks: true
 enableRecentNotes: false
-enableGitHubEdit: true
+enableGitHubEdit: false
 enableMermaid: true
-GitHubLink: https://github.com/jackyzha0/quartz/tree/hugo/content
+GitHubLink:
 search:
   enableSemanticSearch: false
   operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
   operandIndexId: "REPLACE-WITH-YOUR-OPERAND-INDEX-ID"
 description:
-  Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
-  Wikilink support, backlinks, local graph, tags, and link previews.
+  An archive of the adventures of The Fools Errant, as told by Alistair Theodellus II
 page_title:
-  "🪴 Quartz 3.3"
+  "Alistair's Archive"
 links:
-  - link_name: Twitter
-    link: https://twitter.com/_jzhao
-  - link_name: GitHub
-    link: https://github.com/jackyzha0
+  - link_name: HOME
+    link: https://jollydrpirate.github.io/
