@@ -1,0 +1,20 @@
+{
+  "templater-obsidian:Templates/world.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "W"
+    }
+  ],
+  "quickadd:choice:16d95cc7-f2d2-4ba3-a9eb-cfda5f5733c0": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "N"
+    }
+  ]
+}

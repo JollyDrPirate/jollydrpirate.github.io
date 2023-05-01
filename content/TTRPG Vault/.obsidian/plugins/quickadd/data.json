@@ -1,0 +1,89 @@
+{
+  "choices": [
+    {
+      "id": "aa2f22ac-9ddd-4aeb-87d2-062eb4eaf8f9",
+      "name": "Template - Add Campaign",
+      "type": "Template",
+      "command": true,
+      "templatePath": "templates/world.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "ttrpgs/{{value}}/000 World Index"
+      },
+      "folder": {
+        "enabled": false,
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "16d95cc7-f2d2-4ba3-a9eb-cfda5f5733c0",
+      "name": "Template - Add TTRPG Note",
+      "type": "Template",
+      "command": true,
+      "templatePath": "templates/TTRPG frontmatter.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{value}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "ttrpgs/Pieces of Fate"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "dd165c72-d1b6-4612-80ac-f4079821c918",
+      "name": "Template - Add Rule Note",
+      "type": "Template",
+      "command": true,
+      "templatePath": "templates/rule.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{value}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "systems/D&D 5e"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    }
+  ],
+  "macros": [],
+  "inputPrompt": "single-line",
+  "devMode": false
+}
