@@ -1,4 +1,5 @@
 ---
+title: "The World of the Pieces of Fate"
 world: Pieces of Fate
 setting: Sam's Spelljammer
 campaign: Pieces of Fate
@@ -14,6 +15,8 @@ pin: true
 
 
 ## Player Characters
+
+<table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>File</span><span class="dataview small-text">4</span></th><th class="table-view-th"><span>Species</span></th><th class="table-view-th"><span>Class</span></th><th class="table-view-th"><span>Status</span></th><th class="table-view-th"><span>Player</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span><a data-tooltip-position="top" aria-label="ttrpgs/Pieces of Fate/Alistair Theodellus II.md" data-href="ttrpgs/Pieces of Fate/Alistair Theodellus II.md" href="ttrpgs/Pieces of Fate/Alistair Theodellus II.md" class="internal-link" target="_blank" rel="noopener">Alistair Theodellus II</a></span></td><td><span>Astral Elf</span></td><td><ul class="dataview dataview-ul dataview-result-list-ul"><li class="dataview-result-list-li"><span>Warlock</span></li><li class="dataview-result-list-li"><span>Sorcerer</span></li></ul></td><td><span>active</span></td><td><span>Cody Ihnen</span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="ttrpgs/Pieces of Fate/Grookius Zaius.md" data-href="ttrpgs/Pieces of Fate/Grookius Zaius.md" href="ttrpgs/Pieces of Fate/Grookius Zaius.md" class="internal-link" target="_blank" rel="noopener">Grookius Zaius</a></span></td><td><span>Hadozee</span></td><td><ul class="dataview dataview-ul dataview-result-list-ul"><li class="dataview-result-list-li"><span>Sorcerer</span></li></ul></td><td><span>active</span></td><td><span>Drew Barker</span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="ttrpgs/Pieces of Fate/Hex.md" data-href="ttrpgs/Pieces of Fate/Hex.md" href="ttrpgs/Pieces of Fate/Hex.md" class="internal-link" target="_blank" rel="noopener">Hex</a></span></td><td><span>Imp</span></td><td><span>-</span></td><td><span>-</span></td><td><span>-</span></td></tr><tr><td><span><a data-tooltip-position="top" aria-label="ttrpgs/Pieces of Fate/Jameson Ducky Antidid.md" data-href="ttrpgs/Pieces of Fate/Jameson Ducky Antidid.md" href="ttrpgs/Pieces of Fate/Jameson Ducky Antidid.md" class="internal-link" target="_blank" rel="noopener">Jameson Ducky Antidid</a></span></td><td><span>Giff</span></td><td><ul class="dataview dataview-ul dataview-result-list-ul"><li class="dataview-result-list-li"><span>Artificer</span></li></ul></td><td><span>active</span></td><td><span>Aaron Johnson</span></td></tr></tbody></table>
 
 ```dataview
 table
